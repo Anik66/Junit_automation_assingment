@@ -12,16 +12,23 @@ automation streamlines workflows, reduces costs, and allows humans to focus on c
 
 ## Test Picture 
 ## task-->1
-![WhatsApp Image 2024-12-26 at 21 11 59_846a4b11](https://github.com/user-attachments/assets/61b798d6-5dbe-4012-ad16-95668b6616ad)
-![WhatsApp Image 2024-12-26 at 21 12 29_f187646e](https://github.com/user-attachments/assets/1d3c158a-2331-4f87-a890-0d95823a65bf)
+![image](https://github.com/user-attachments/assets/f40bbb40-3fbb-44a1-8f48-76995568d87a)
+![image](https://github.com/user-attachments/assets/7ddb4bc9-9726-4e1e-9fc3-71ece39910fa)
+
+
+
 
 ## task-->2 
-![image](https://github.com/user-attachments/assets/6d7110e3-e974-43c5-be01-38490ea2f29d)
-![image](https://github.com/user-attachments/assets/bd0adf30-345e-45a0-8689-531b032e6b08)
+![image](https://github.com/user-attachments/assets/beafe4f6-0f42-4a15-9aff-d048202e399b)
+![image](https://github.com/user-attachments/assets/82650b9c-a7d9-43fe-b0e9-383d0634ead6)
+
 
 ## task -->3
-![image](https://github.com/user-attachments/assets/71d4137b-2f46-4f3a-8a16-43fded4377ac)
-![image](https://github.com/user-attachments/assets/6fce325c-ab84-4e07-8eb5-2232c7d136e0)
+![image](https://github.com/user-attachments/assets/91cc9a27-7874-4aba-a0d1-f7fe6241180f)
+![image](https://github.com/user-attachments/assets/ae19a94f-9e14-4b09-b0ce-7fd22ee19152)
+
+
+
 
 
 
